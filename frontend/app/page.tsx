@@ -7,6 +7,7 @@ export default function Home() {
   const [error, setError] = useState<boolean>(false);
 
   useEffect(() => {
+    // Fetch message from NestJS backend
     fetch('http://localhost:3001')
       .then((res) => {
         if (!res.ok) throw new Error('Failed to fetch');
