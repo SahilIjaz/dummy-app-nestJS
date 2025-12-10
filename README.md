@@ -1,4 +1,4 @@
-# Dummy App (Hello World)
+# Dummy App (Next.js + Nest.js Monorepo)
 
 This project consists of a Next.js frontend and a Nest.js backend.
 
