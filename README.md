@@ -31,3 +31,6 @@ npm run dev
 
 - **Frontend**: [http://localhost:3000](http://localhost:3000)
 - **Backend API**: [http://localhost:3001](http://localhost:3001)
+
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help out.
